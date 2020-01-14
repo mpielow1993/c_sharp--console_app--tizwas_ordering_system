@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Object Oriented Programming\CA\CA\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Admin\Documents\Object Oriented Programming\CA\CA\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Admin\Documents\Object Oriented Programming\CA\CA\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Admin\Documents\Object Oriented Programming\CA\CA\ConsoleApp2\ConsoleApp2\obj\Debug\TizwasOrderingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Object Oriented Programming\CA\CA\ConsoleApp2\ConsoleApp2\obj\Debug\TizwasOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Object Oriented Programming\CA\CA\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Admin\Documents\Object Oriented Programming\CA\CA\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Admin\Documents\Object Oriented Programming\CA\MichaelPielow_10391669\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Admin\Documents\Object Oriented Programming\CA\MichaelPielow_10391669\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Admin\Documents\Object Oriented Programming\CA\MichaelPielow_10391669\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Admin\Documents\Object Oriented Programming\CA\MichaelPielow_10391669\ConsoleApp2\ConsoleApp2\obj\Debug\TizwasOrderingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Object Oriented Programming\CA\MichaelPielow_10391669\ConsoleApp2\ConsoleApp2\obj\Debug\TizwasOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Object Oriented Programming\CA\MichaelPielow_10391669\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Admin\Documents\Object Oriented Programming\CA\MichaelPielow_10391669\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
